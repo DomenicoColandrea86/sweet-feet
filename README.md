@@ -15,5 +15,5 @@ A cross platform (iOS and Android) mobile app running on a serverless architectu
 Install project dependencies and run development server with hot reloading
 
 ```
-cd sweet-feet && yarn install && yarn run start
+cd sweet-feet/app && yarn install && yarn run start
 ```
