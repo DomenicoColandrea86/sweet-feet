@@ -25,6 +25,6 @@
     "ios": {
       "supportsTablet": true
     },
-    "description": ""
+    "description": "A cross platform mobile app running on a serverless architecture, providing comprehensive study guides for podiatry board exams."
   }
 }
