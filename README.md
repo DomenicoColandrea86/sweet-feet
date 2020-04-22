@@ -1,7 +1,7 @@
 # #sweet-feet
 A cross platform (iOS and Android) mobile app running on a serverless architecture
 
-## Technologies 🔌
+## Technologies
 
 - React Native + Expo
 - Typescript
