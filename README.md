@@ -1,9 +1,5 @@
 # #sweet-feet
-
-> A cross platform (iOS and Android) mobile app running on a serverless architecture
-
-[![Blazing Fast](https://badgen.now.sh/badge/speed/blazing%20%F0%9F%94%A5/green)](https://github.com/Real-Capital/component-library)
-
+A cross platform (iOS and Android) mobile app running on a serverless architecture
 
 ## Technologies 🔌
 
