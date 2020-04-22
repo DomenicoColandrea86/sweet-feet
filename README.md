@@ -1,5 +1,5 @@
 # #sweet-feet
-A cross platform (iOS and Android) mobile app running on a serverless architecture
+A cross platform mobile app running on a serverless architecture, providing comprehensive study guides for podiatry board exams
 
 ## Technologies
 
